@@ -1,0 +1,7 @@
+{
+  "name": "AI Wildlife Analysis for Foresters",
+  "description": "An application for foresters to upload wildlife camera trap images, receive a detailed AI-generated analysis, and interact with the data through a conversational chat assistant.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
